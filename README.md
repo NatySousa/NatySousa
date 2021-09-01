@@ -12,7 +12,7 @@
   <img align="center" alt="Naty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Naty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Naty-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Naty-yoda" src=https://c.tenor.com/xBwlJcoEE2EAAAAM/baby-yoda-wave-baby-yoda.gif>
+  <img align="right" alt="Naty-yoda" src=https://1.bp.blogspot.com/-BK_pd9L-ASk/WfH4R3TiIZI/AAAAAAAL1mo/vfpbii9ey6w-yuCPD_K_hKwL0TySmHvEwCLcBGAs/s1600/AS003243_01.gif>
 </div>
   
   ##
