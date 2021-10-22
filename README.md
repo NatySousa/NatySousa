@@ -12,7 +12,7 @@
   <img align="center" alt="Naty-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Naty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Naty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Naty-Java" height="30" width="40" src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Naty-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="right" alt="Naty-yoda" src=https://1.bp.blogspot.com/-BK_pd9L-ASk/WfH4R3TiIZI/AAAAAAAL1mo/vfpbii9ey6w-yuCPD_K_hKwL0TySmHvEwCLcBGAs/s1600/AS003243_01.gif>
 </div>
   
