@@ -1,4 +1,4 @@
-## Oie! 😊 Seja bem vindo(a) ao meu GitHub 🖖
+## Hi! 😊 Welcome to my GitHub 🖖
 
 <div>
   <a href="https://github.com/NatySousa">
